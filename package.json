@@ -1,7 +1,7 @@
 {
   "name": "habit-tracker",
   "main": "./lib/habit-tracker",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Track habits with checkboxes and see current and longest streaks",
   "keywords": [
     "habit",
