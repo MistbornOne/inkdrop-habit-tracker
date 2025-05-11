@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".CodeMirror": [
+      {
+        "label": "Toggle habit-tracker",
+        "command": "habit-tracker:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Plugins",
+      "submenu": [
+        {
+          "label": "habit-tracker",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "habit-tracker:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
